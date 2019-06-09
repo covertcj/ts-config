@@ -1,0 +1,26 @@
+{
+  "name": "@covertcj/ts-config",
+  "version": "0.1.0",
+  "description": "Modern TypeScript configuration for my projects",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covertcj/ts-config.git"
+  },
+  "author": "Christopher J. Covert <covertops5@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/covertcj/ts-config/issues"
+  },
+  "homepage": "https://github.com/covertcj/ts-config#readme",
+  "peerDependencies": {
+    "@typescript-eslint/parser": ">= 1",
+    "@typescript-eslint/eslint-plugin": ">= 1",
+    "eslint": ">= 5",
+    "eslint-config-prettier": ">= 4",
+    "eslint-plugin-prettier": ">= 3",
+    "prettier": ">= 1",
+    "typescript": ">= 3"
+  }
+}
